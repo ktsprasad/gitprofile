@@ -11,30 +11,31 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'ktsprasad',
+    twitter: 'ktsrinivasgowda',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    medium: '',
+    dev: '',
+    stackoverflow: '9224825/srinivas-prasad-s-gowda', // example: '1/jeff-atwood'
+    skype: 'ktsrinivasgowda@gmail.com',
+    telegram: 'ktsprasad',
+    quora: 'Srinivas-Prasad-S-Gowda',
+    website: 'iamkt.vercel.app',
+    phone: '+91-9980801780',
+    email: 'ktsrinivasgowda@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1ZzDefrEqRZtZP_zFRJOcquji8KbiqjSR/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Java',
+    'Selenium',
     'JavaScript',
     'React.js',
     'Node.js',
@@ -43,25 +44,30 @@ const config = {
     'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
     'Tailwind',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Decathlon Sports India',
+      position: 'Full Stack QA Engineering Manager',
+      from: 'Jan 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.decathlon.in',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Harman Connected Services Acquired by Samsung',
+      position: 'Lead QA Engineer',
+      from: 'Dec 2021',
+      to: 'Jan 2015',
+      companyLink: 'https://services.harman.com',
+    },
+    {
+      company: 'Serus Corporation Acquired by E2open',
+      position: 'Software Engineer',
+      from: 'Dec 2021',
+      to: 'Jan 2015',
+      companyLink: 'https://www.e2open.com',
     },
   ],
   /* certifications: [
@@ -74,21 +80,15 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Bangalore University',
+      degree: 'Master of Computer Applications',
+      from: '2008',
+      to: '2011',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  externalProjects: [
+ /*  externalProjects: [
     {
       title: 'Project Name',
       description:
@@ -103,13 +103,13 @@ const config = {
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
-  ],
+  ], */
   // Display blog posts from your medium or dev account. (Optional)
-  blog: {
+  /* blog: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
-  },
+  }, */
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
