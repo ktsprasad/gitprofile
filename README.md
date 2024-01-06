@@ -6,53 +6,53 @@
   <h4 align="center">Easy to use automatic portfolio builder for every GitHub user!</h4>
 
   <p align="center">
-    <a href="https://codeclimate.com/github/arifszn/gitprofile/maintainability">
+    <a href="https://codeclimate.com/github/ktsprasad/gitprofile/maintainability">
       <img src="https://api.codeclimate.com/v1/badges/c60f42d7d0b61bd33e98/maintainability" />
     </a>
-    <a href="https://github.com/arifszn/gitprofile/actions/workflows/test-deploy.yml">
-      <img src="https://github.com/arifszn/gitprofile/actions/workflows/test-deploy.yml/badge.svg" />
+    <a href="https://github.com/ktsprasad/gitprofile/actions/workflows/test-deploy.yml">
+      <img src="https://github.com/ktsprasad/gitprofile/actions/workflows/test-deploy.yml/badge.svg" />
     </a>
-    <a href="https://github.com/arifszn/gitprofile/issues">
-      <img src="https://img.shields.io/github/issues/arifszn/gitprofile"/>
+    <a href="https://github.com/ktsprasad/gitprofile/issues">
+      <img src="https://img.shields.io/github/issues/ktsprasad/gitprofile"/>
     </a>
-    <a href="https://github.com/arifszn/gitprofile/stargazers">
-      <img src="https://img.shields.io/github/stars/arifszn/gitprofile"/>
+    <a href="https://github.com/ktsprasad/gitprofile/stargazers">
+      <img src="https://img.shields.io/github/stars/ktsprasad/gitprofile"/>
     </a>
-    <a href="https://github.com/arifszn/gitprofile/network/members">
-      <img src="https://img.shields.io/github/forks/arifszn/gitprofile"/>
+    <a href="https://github.com/ktsprasad/gitprofile/network/members">
+      <img src="https://img.shields.io/github/forks/ktsprasad/gitprofile"/>
     </a>
-    <a href="https://github.com/arifszn/gitprofile/commits/main">
-      <img src="https://img.shields.io/github/last-commit/arifszn/gitprofile/main"/>
+    <a href="https://github.com/ktsprasad/gitprofile/commits/main">
+      <img src="https://img.shields.io/github/last-commit/ktsprasad/gitprofile/main"/>
     </a>
-    <a href="https://github.com/arifszn/gitprofile/blob/main/CONTRIBUTING.md">
+    <a href="https://github.com/ktsprasad/gitprofile/blob/main/CONTRIBUTING.md">
       <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/>
     </a>
-    <a href="https://github.com/arifszn/gitprofile/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/arifszn/gitprofile"/>
+    <a href="https://github.com/ktsprasad/gitprofile/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/ktsprasad/gitprofile"/>
     </a>
-    <a href="https://www.buymeacoffee.com/arifszn">
+    <a href="https://www.buymeacoffee.com/ktsprasad">
       <img src="https://img.shields.io/badge/sponsor-buy%20me%20a%20coffee-yellow?logo=buymeacoffee"/>
     </a>
-    <a href="https://twitter.com/intent/tweet?text=Check%20out%20the%20portfolio%20builder.%20Create%20an%20automatic%20portfolio%20based%20on%20GitHub%20profile.&url=https://github.com/arifszn/gitprofile&hashtags=javascript,opensource,js,webdev,developers">
-      <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Farifszn%2Fgitprofile"/>
+    <a href="https://twitter.com/intent/tweet?text=Check%20out%20the%20portfolio%20builder.%20Create%20an%20automatic%20portfolio%20based%20on%20GitHub%20profile.&url=https://github.com/ktsprasad/gitprofile&hashtags=javascript,opensource,js,webdev,developers">
+      <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fktsprasad%2Fgitprofile"/>
     </a>
   </p>
 
   <p align="center">
-    <a href="https://arifszn.github.io/gitprofile">View Demo</a>
+    <a href="https://ktsprasad.github.io/gitprofile">View Demo</a>
     ·
-    <a href="https://github.com/arifszn/gitprofile/issues">Report Bug</a>
+    <a href="https://github.com/ktsprasad/gitprofile/issues">Report Bug</a>
     ·
-    <a href="https://github.com/arifszn/gitprofile/discussions">Request Feature</a>
+    <a href="https://github.com/ktsprasad/gitprofile/discussions">Request Feature</a>
   </p>
 </p>
 
 <p align="center">
-  <a href="https://arifszn.github.io/gitprofile">
-    <img src="https://arifszn.netlify.app/assets/img/hosted/gitprofile/preview.gif" alt="Preview" width="60%"/>
+  <a href="https://ktsprasad.github.io/gitprofile">
+    <img src="https://ktsprasad.netlify.app/assets/img/hosted/gitprofile/preview.gif" alt="Preview" width="60%"/>
   </a>
   <br/>
-  <a href="#arifszn"><img src="https://arifszn.netlify.app/assets/img/drop-shadow.png" width="50%" alt="Shadow"/></a>
+  <a href="#ktsprasad"><img src="https://ktsprasad.netlify.app/assets/img/drop-shadow.png" width="50%" alt="Shadow"/></a>
 </p>
 
 **GitProfile** is an easy to use portfolio builder where you can create a portfolio page automatically by just providing your GitHub username. It is built using React.js on top of Vite. But it's not necessary to have knowledge on these to get you started. You can make your own copy with zero coding experience.
@@ -74,19 +74,19 @@
 ✓ [Projects Section](#projects)  
 ✓ [Blog Posts Section](#blog-posts)
 
-To view a live example, **[click here](https://arifszn.github.io/gitprofile)**.
+To view a live example, **[click here](https://ktsprasad.github.io/gitprofile)**.
 
 Or try it **[online](https://stackblitz.com/edit/gitprofile)**.
 
 <p align="center">
-  <img src="https://arifszn.netlify.app/assets/img/hosted/gitprofile/themes.png" alt="Themes">
+  <img src="https://ktsprasad.netlify.app/assets/img/hosted/gitprofile/themes.png" alt="Themes">
 </p>
 
 ## 🎉 Thank you for the 800 ★
 
 <p>
-  <a href="https://arifszn.github.io/gitprofile">
-    <img src="https://github.com/arifszn/gitprofile/assets/45073703/b3d34d17-cf55-4c74-bf44-3196b1f0ac66" alt="Thank You" width="50%"/>
+  <a href="https://ktsprasad.github.io/gitprofile">
+    <img src="https://github.com/ktsprasad/gitprofile/assets/45073703/b3d34d17-cf55-4c74-bf44-3196b1f0ac66" alt="Thank You" width="50%"/>
   </a>
 </p>
 
@@ -102,13 +102,13 @@ There are three ways to use **GitProfile**. Use any.
 
 These instructions will get you a copy of the project and deploy your portfolio online using GitHub Pages!
 
-- **Fork repo:** Click [here](https://github.com/arifszn/gitprofile/fork) to fork the repo so you have your own project to customize. A "fork" is a copy of a repository.
+- **Fork repo:** Click [here](https://github.com/ktsprasad/gitprofile/fork) to fork the repo so you have your own project to customize. A "fork" is a copy of a repository.
 - **Rename repo:**
   - If you want to host your portfolio at `https://<USERNAME>.github.io`, rename your forked repository to `username.github.io` in GitHub, where `username` is your GitHub username (or organization name).
   - If you want to host your portfolio at `https://<USERNAME>.github.io/<REPO_NAME>` (e.g. `https://<USERNAME>.github.io/portfolio`), rename your forked repository to `<REPO_NAME>` (e.g. `portfolio`) in GitHub.
 - **Enable workflows:** Go to your repo's **Actions** tab and enable workflows.
 
-  ![Workflows](https://arifszn.netlify.app/assets/img/hosted/gitprofile/workflows.png)
+  ![Workflows](https://ktsprasad.netlify.app/assets/img/hosted/gitprofile/workflows.png)
 
 - **Base Value:** Open `vite.config.js`, and change `base`'s value.
 
@@ -124,7 +124,7 @@ These instructions will get you a copy of the project and deploy your portfolio 
   }
   ```
 
-- **Commit the changes:** Now commit to your **main** branch with your changes. Wait a few minutes so that the CI/CD pipeline can publish your website to GitHub Pages. You can check the progress in the [Actions](https://github.com/arifszn/gitprofile/actions) tab.
+- **Commit the changes:** Now commit to your **main** branch with your changes. Wait a few minutes so that the CI/CD pipeline can publish your website to GitHub Pages. You can check the progress in the [Actions](https://github.com/ktsprasad/gitprofile/actions) tab.
 
 Your portfolio website will be live shortly. Any time you commit a change to the **main** branch, the website will be automatically updated. If you face any issue viewing the website, double-check the `base` value in the `vite.config.js` file. Also, check if **Source** is set to **GitHub Actions** in **Settings** ➜ **Pages** ➜ **Build and deployment**.
 
@@ -137,7 +137,7 @@ As this is a Vite project, you can also host your website to Netlify, Vercel, He
 - Clone the project and change directory.
 
   ```shell
-  git clone https://github.com/arifszn/gitprofile.git
+  git clone https://github.com/ktsprasad/gitprofile.git
   cd gitprofile
   ```
 
@@ -159,30 +159,30 @@ As this is a Vite project, you can also host your website to Netlify, Vercel, He
 
 You can also use **GitProfile** by installing as an NPM package.
 
-First Install **GitProfile** via <a href="https://www.npmjs.com/package/@arifszn/gitprofile">NPM</a>.
+First Install **GitProfile** via <a href="https://www.npmjs.com/package/@ktsprasad/gitprofile">NPM</a>.
 
 ```sh
-npm install @arifszn/gitprofile
+npm install @ktsprasad/gitprofile
 ```
 
-Or via <a href="https://yarnpkg.com/package/@arifszn/gitprofile">Yarn</a>.
+Or via <a href="https://yarnpkg.com/package/@ktsprasad/gitprofile">Yarn</a>.
 
 ```sh
-yarn add @arifszn/gitprofile
+yarn add @ktsprasad/gitprofile
 ```
 
 Then, import the package, import and style and provide the config.
 
 ```js
-import GitProfile from '@arifszn/gitprofile';
-import '@arifszn/gitprofile/dist/style.css';
+import GitProfile from '@ktsprasad/gitprofile';
+import '@ktsprasad/gitprofile/dist/style.css';
 
 function App() {
   return (
     <GitProfile
       config={{
         github: {
-          username: 'arifszn',
+          username: 'ktsprasad',
         },
       }}
     />
@@ -194,7 +194,7 @@ export default App;
 
 List of all config [here](#-customization).
 
-**If you face any problems or have any questions, open an issue [here](https://github.com/arifszn/gitprofile/issues).**
+**If you face any problems or have any questions, open an issue [here](https://github.com/ktsprasad/gitprofile/issues).**
 
 ## 🎨 Customization
 
@@ -205,7 +205,7 @@ All the magic happens in the file `gitprofile.config.js`. Open it and modify it 
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'ktsprasad', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 8, // How many projects to display.
     exclude: {
@@ -293,7 +293,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'ktsprasad', // to hide blog section, keep it empty
     limit: 5, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -387,7 +387,7 @@ const config = {
 ```
 
 <p align="center">
-  <img src="https://arifszn.netlify.app/assets/img/hosted/gitprofile/theme-dropdown.png" alt="Theme Dropdown" width="50%">
+  <img src="https://ktsprasad.netlify.app/assets/img/hosted/gitprofile/theme-dropdown.png" alt="Theme Dropdown" width="50%">
 </p>
 
 You can create your own custom theme by modifying these values. Theme `procyon` will have the custom styles.
@@ -450,7 +450,7 @@ Meta tags will be auto-generated from configs dynamically. However, you can also
 
 GitProfile is PWA enabled. The site can be installed as a Progressive Web App.
 
-![PWA](https://github.com/arifszn/gitprofile/assets/45073703/9dc7cc5c-4262-4445-a7a5-1e3566ef43fa)
+![PWA](https://github.com/ktsprasad/gitprofile/assets/45073703/9dc7cc5c-4262-4445-a7a5-1e3566ef43fa)
 
 ### Avatar and Bio
 
@@ -467,7 +467,7 @@ const config = {
   social: {
     linkedin: 'ariful-alam',
     twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    mastodon: 'ktsprasad@mastodon.social',
     facebook: '',
     instagram: '',
     youtube: '',
@@ -587,7 +587,7 @@ Your public repo from GitHub will be displayed in the `Github Projects` section 
 const config = {
   // ...
   github: {
-    username: 'arifszn',
+    username: 'ktsprasad',
     sortBy: 'stars',
     limit: 8,
     exclude: {
@@ -627,27 +627,27 @@ const config = {
   // ...
   blog: {
     source: 'dev',
-    username: 'arifszn',
+    username: 'ktsprasad',
     limit: 5,
   },
 };
 ```
 
-![Blog](https://arifszn.netlify.app/assets/img/hosted/gitprofile/blog.png)
+![Blog](https://ktsprasad.netlify.app/assets/img/hosted/gitprofile/blog.png)
 
-The posts are fetched by [blog.js](https://github.com/arifszn/blog.js).
+The posts are fetched by [blog.js](https://github.com/ktsprasad/blog.js).
 
 ## 💖 Support
 
 <p>You can show your support by starring this project. ★</p>
-<a href="https://github.com/arifszn/gitprofile/stargazers">
-  <img src="https://img.shields.io/github/stars/arifszn/gitprofile?style=social" alt="Github Star">
+<a href="https://github.com/ktsprasad/gitprofile/stargazers">
+  <img src="https://img.shields.io/github/stars/ktsprasad/gitprofile?style=social" alt="Github Star">
 </a>
 
 ## 💡 Contribute
 
-To contribute, see the [Contributing guide](https://github.com/arifszn/gitprofile/blob/main/CONTRIBUTING.md).
+To contribute, see the [Contributing guide](https://github.com/ktsprasad/gitprofile/blob/main/CONTRIBUTING.md).
 
 ## 📄 License
 
-[MIT](https://github.com/arifszn/gitprofile/blob/main/LICENSE)
+[MIT](https://github.com/ktsprasad/gitprofile/blob/main/LICENSE)
